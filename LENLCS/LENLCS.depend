@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560380899 source:c:\lenlcs\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
